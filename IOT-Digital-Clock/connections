@@ -1,0 +1,7 @@
+Connections
+
+LCD -> NodeMCU
+SDA -> D5
+SCL -> D6
+VCC -> 3.3V
+GND -> GND
