@@ -28,6 +28,14 @@ You need to download the following:
 This project is a DIY Clock which gets data from NTP ( Network Time Protocol ) servers and updates directly. It can be used instead of RTC ( Real Time Clock ) modules for IOT projects and smart devices.
 
 ------------
+### Tutorial
+1. Get the code
+2. Get the libraries
+3. Attach everything
+4. Upload the code
+	🔥🔥🔥🔥🔥
+
+------------
 
 ### Connections
 |  NodeMCU  |  LCD I2C  |
