@@ -3,7 +3,7 @@
 
 [![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/sam-tj/IOT-Digital-Clock/master/sample-image-2.jpg)](http://www.youtube.com/watch?v=DfONEzf3ouE)
 
-IOT Clock whick display Date and Time using NodeMCU and LCD I2C
+IOT Clock which display Date and Time using NodeMCU and LCD I2C
 
 The project uses NTP server to get the Time and Date values and uses it to display it on the LCD.
 
